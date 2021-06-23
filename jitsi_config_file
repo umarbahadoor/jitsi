@@ -3,11 +3,11 @@
 
 # Mandatory parameters
 BEHIND_NAT=no
-SERVER_FQDN="meet4.myscore.mu"
+SERVER_FQDN="__SERVER_FQDN__"
 
 # Private and Public IPs are mandatory, only if BEHIND_NAT=yes
-PUBLIC_IP="139.59.188.136"
-PRIVATE_IP="10.106.0.4"
+PUBLIC_IP="__PUBLIC_IP__"
+PRIVATE_IP="__PRIVATE_IP__"
 
 # Mandatory parameters end
 
@@ -24,8 +24,8 @@ LETSENCRYPT_EMAIL=umar.bahadoor@gmail.com
 ENABLE_SECURE_DOMAIN=yes
 # 
 # Ensure that the number of users and the number of passwords are same
-SECURE_USERS="myscore myscore11"
-SECURE_PASSWORDS="december november"
+SECURE_USERS="__SECURE_USERS__"
+SECURE_PASSWORDS="__SECURE_PASSWORDS__"
 
 INSTALL_ETHERPAD=no
 
