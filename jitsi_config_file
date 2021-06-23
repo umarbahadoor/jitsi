@@ -24,8 +24,8 @@ LETSENCRYPT_EMAIL=umar.bahadoor@gmail.com
 ENABLE_SECURE_DOMAIN=yes
 # 
 # Ensure that the number of users and the number of passwords are same
-SECURE_USERS="myscore"
-SECURE_PASSWORDS="december"
+SECURE_USERS="myscore myscore11"
+SECURE_PASSWORDS="december november"
 
 INSTALL_ETHERPAD=no
 
